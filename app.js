@@ -1,6 +1,9 @@
 let randomNumber1 = Math.floor(Math.random() * 6) + 1;
 let randomNumber2 = Math.floor(Math.random() * 6) + 1;
 
+console.log(randomNumber1);
+console.log(randomNumber2);
+
 let img1 = document.querySelector(".img1");
 let img2 = document.querySelector(".img2");
 
